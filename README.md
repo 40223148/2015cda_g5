@@ -2,5 +2,5 @@
 鄭裕正測試01
 25 test
 44 test
-白癡 FUCK
-肥豬 FUCK
+白癡
+肥豬 

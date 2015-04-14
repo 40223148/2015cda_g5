@@ -23,3 +23,42 @@ waffle連結:https://waffle.io/40223148/2015cda_g5
 github連結:https://github.com/40223148/2015cda_g5
 
 gitbook連結:
+
+
+
+2015cda_g5_w3
+===
+
+我們已經完成gitbook.github.waffle.io同步
+
+https://github.com/40223148/2015cda_g5
+
+第三週的任務：
+
+在 https://github.com/coursemdetw/2015cd.git wiki 與 http://wordpress-2015course.rhcloud.com/ 回報各組的 https://waffle.io/ 專案執行連結
+專案一協同執行進度摘要, 例如: https://waffle.io/coursemdetw/2015cd 為 2015cd 專案管理連結
+已完成任務:
+
+1. https://waffle.io/40223148/2015cda_g5
+
+===
+
+這週的進度是完成2D繪圖裡面內容的工作分配  並且在https://waffle.io/40223148/2015cda_g5裡面開會
+
+2D繪圖:
+
+1.表單
+
+2.Brython繪圖
+
+3手繪開線正齒輪
+
+4.統整雲端程式與電子書報告編寫規劃
+
+將表單及Brython繪圖整合 負責人:40223125
+
+手繪漸開線正齒輪  負責人:40223122  40223144
+
+統整雲端程式與電子書報告編寫規劃   負責人:40223146 40223140
+
+監督負責人 :40223148

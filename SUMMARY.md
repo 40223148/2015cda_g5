@@ -3,5 +3,5 @@
 * [introduction](README.md)
 * [第一週](di_yi_zhou.md)
 * 第二週
-* [第三週](di_san_zhou.md)
+* 第三週
 

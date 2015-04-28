@@ -1,9 +1,13 @@
 # 第三週
 
-各組組長將以 author 身份在本網誌增加資料, 以下為各班 Posts 類別
+我們已經完成gitbook.github.waffle.io同步
 
-2015cda – 2015 Spring 協同產品設計實習 四技設二甲班 (parent 類別)
+https://github.com/40223148/2015cda_g5
 
-2015cda_g1 – 2015cda 第1組的 Posts 類別 (設為 2015cda 的子類別)
-2015cda_g2 – 2015cda 第2組的 Posts 類別 (設為 2015cda 的子類別)
-依此類推
+第三週的任務：
+
+在 https://github.com/coursemdetw/2015cd.git wiki 與 http://wordpress-2015course.rhcloud.com/ 回報各組的 https://waffle.io/ 專案執行連結
+專案一協同執行進度摘要, 例如: https://waffle.io/coursemdetw/2015cd 為 2015cd 專案管理連結
+已完成任務:
+
+1. https://waffle.io/40223148/2015cda_g5

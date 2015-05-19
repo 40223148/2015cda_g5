@@ -1,13 +1,13 @@
-# Introduction
+組員為:
 
-March - July 2015
+40223122邱昱仁
 
-Welcome, this is an ongoing project record for a university course named collaborative product design principles and practices.
+40223125高定澤
 
-Github integration: https://github.com/product-owner/2015scrum
+40223140楊皓惟
 
-course website: http://cd-cadp.rhcloud.com
+40223144趙冠寧
 
+40223146劉琮楚
 
-
-
+40223148鄭裕正

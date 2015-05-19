@@ -46,13 +46,7 @@ for i in range(repeat_no):
 #@+node:2015.20150519103048.1: ** newHeadline
 #@@killcolor
 
-[user]
-	email = 40223148@gmail.com
-	name = 40223148
-[push]
-	default = matching
-[http]
-[http]
+
 #@+node:2014fall.20141212095015.1777: ** class Hello
 ################# (3) 程式類別定義區
 # 以下改用 CherryPy 網際框架程式架構

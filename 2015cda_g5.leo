@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by Leo (http://leoeditor.com/leo_toc.html) -->
-<?xml-stylesheet ekr_test?>
-<leo_file xmlns:leo="http://www.leo-editor.org/2011/leo" >
+<!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
+<?xml-stylesheet ekr_test ?>
+<leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
 	<global_window_position top="50" left="50" height="500" width="700"/>
@@ -27,6 +27,7 @@ expanded="office.20150407074720.3,"><vh>@file gear.py</vh></v>
 <v t="2015.20150330144929.1717"><vh>@edit README.md </vh></v>
 <v t="2015.20150330144929.1720"><vh>@edit _建立分組協同報告.md</vh></v>
 <v t="2015.20150330144929.1721"><vh>@edit _新產品開發流程.md</vh></v>
+<v t="2015.20150521170559.1"><vh>@edit _第一週工作內容.md</vh></v>
 </v>
 <v t="2015.20150330144929.1763"><vh>以下為參考資料</vh>
 <v t="2015.20150330144929.1764"><vh>Brython 正齒輪程式</vh></v>
